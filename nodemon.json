@@ -1,0 +1,4 @@
+{
+  "watch": ["dist"],
+  "exec": "npx react-init-cli --template test"
+}
